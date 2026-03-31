@@ -50,10 +50,3 @@ python calculator.py
 - `eval()` works for simple projects, but it is not a safe choice for untrusted input.
 - The multiplication button displays `x`, but internally uses `*` for calculation.
 
-## Screenshot
-
-Run the app to open the calculator window.
-
-## License
-
-You can add an `MIT` license if you want other people to freely use and modify the project.
